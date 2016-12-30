@@ -1,6 +1,6 @@
 {
   "name": "ticketfly-css-tap-target-objects",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Ticketfly CSS helpers for the `tap-target` object pattern",
   "main": "index.css",
   "style": "index.css",
